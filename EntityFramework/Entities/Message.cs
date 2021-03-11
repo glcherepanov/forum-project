@@ -10,5 +10,6 @@ namespace Forum.EntityFramework.Entities
         public string Text { get; set; }
         
         public virtual Image Image { get; set; }
+        //kek
     }
 }
